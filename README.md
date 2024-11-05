@@ -1,2 +1,2 @@
 # Independent Study 
-# Plot Graph for Differential Privacy
+Plot Graph for Differential Privacy
